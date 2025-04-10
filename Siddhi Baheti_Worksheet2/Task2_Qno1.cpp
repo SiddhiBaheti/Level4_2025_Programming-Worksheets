@@ -15,7 +15,7 @@ public:
 
     //function to calculate area of the circle
     float Area(){
-        area = 3.14 * radius * radius;
+        float area = 3.14 * radius * radius;
         return area;
     }
 
